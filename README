@@ -1,1 +1,5 @@
 This is a browser extension that aims to organize and store references to tabs by content and other data.
+
+To use, clone repo, go to chrome://extensions/ , turn on developer mode, then 'Load Unpacked'.
+
+Opening a new tab will show extension.
