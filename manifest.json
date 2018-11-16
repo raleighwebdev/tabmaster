@@ -1,0 +1,11 @@
+{
+  "name": "Tab Master",
+  "version": "1.0",
+  "description": "Smart organizer for tabs and urls by their content",
+  "permissions": ["storage", "tabs"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "manifest_version": 2
+}
